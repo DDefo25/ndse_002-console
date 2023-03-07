@@ -1,0 +1,25 @@
+{
+  "name": "get-time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "get-time": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDefo25/ndse_002-console.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDefo25/ndse_002-console/issues"
+  },
+  "homepage": "https://github.com/DDefo25/ndse_002-console#readme",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
